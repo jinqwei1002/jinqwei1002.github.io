@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Blog</title>
-    <link>jinqwei1002.github.io/</link>
+    <link>https://jinqwei1002.github.io/</link>
     <description>Recent content on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 26 Aug 2020 11:12:01 +0800</lastBuildDate>
     
-	<atom:link href="jinqwei1002.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jinqwei1002.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Post1</title>
-      <link>jinqwei1002.github.io/posts/post1/</link>
+      <link>https://jinqwei1002.github.io/posts/post1/</link>
       <pubDate>Wed, 26 Aug 2020 11:12:01 +0800</pubDate>
       
-      <guid>jinqwei1002.github.io/posts/post1/</guid>
+      <guid>https://jinqwei1002.github.io/posts/post1/</guid>
       <description>Sample Markdown This is some basic, sample markdown.
 測試部落格 測試部落格 測試部落格</description>
     </item>
