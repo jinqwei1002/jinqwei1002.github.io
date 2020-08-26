@@ -1,4 +1,4 @@
-baseURL = "jinqwei1002.github.io"
+baseURL = "jinqwei1002.github.io/"
 languageCode = "zh-tw"
 title = "My Blog"
 publishDir = "docs"
