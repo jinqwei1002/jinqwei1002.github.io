@@ -1,4 +1,18 @@
 ---
 label: Posts
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: TITLE
+- name: date
+  type: datetime
+  label: DATE
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
