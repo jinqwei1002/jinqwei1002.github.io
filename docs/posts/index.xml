@@ -6,10 +6,19 @@
     <description>Recent content in Posts on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 26 Aug 2020 11:12:01 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2020 10:23:14 +0800</lastBuildDate>
     
 	<atom:link href="https://jinqwei1002.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Post2</title>
+      <link>https://jinqwei1002.github.io/posts/post2/</link>
+      <pubDate>Fri, 28 Aug 2020 10:23:14 +0800</pubDate>
+      
+      <guid>https://jinqwei1002.github.io/posts/post2/</guid>
+      <description>第二頁 </description>
+    </item>
     
     <item>
       <title>Post1</title>
